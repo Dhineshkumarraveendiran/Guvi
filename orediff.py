@@ -1,0 +1,9 @@
+#r
+N,M=input().split()
+N=int(N)
+M=int(M)
+diff=N-M
+if(diff%2==0):
+	print("even")
+else:
+	print("odd")
