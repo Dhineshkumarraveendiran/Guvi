@@ -5,7 +5,7 @@ u = int(u)
 
 
 
-for n in range(l,u++1):
+for n in range(l,u):
    
    if n>1:
        for i in range(2,n):
