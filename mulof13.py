@@ -1,6 +1,6 @@
 #q
-n=int(input())
-if(n%13==0):
+N=int(input())
+if(N%13==0):
 	print("yes")
 else:
 	print("no")
