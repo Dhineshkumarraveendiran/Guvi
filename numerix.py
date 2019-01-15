@@ -1,7 +1,7 @@
 #e
 user_input = input ()
 try:
-   val = int(user_input)
+   val = float(user_input)
    print("yes")
    
 except ValueError:
